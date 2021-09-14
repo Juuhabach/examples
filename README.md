@@ -1,31 +1,7 @@
-# confluent-cloud-client/go
+# Overview
 
+Produce messages to and consume messages from a Kafka cluster using [Confluent Golang Client for Apache Kafka](https://github.com/confluentinc/confluent-kafka-go).
 
+# Documentation
 
-## Getting Started
-
-Download links:
-
-SSH clone URL: ssh://git@git.jetbrains.space/juuhabach/confluent-cloud-client/go.git
-
-HTTPS clone URL: https://git.jetbrains.space/juuhabach/confluent-cloud-client/go.git
-
-
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-## Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Examples
-```
-
-## Deployment
-
-Add additional notes about how to deploy this on a production system.
-
-## Resources
-
-Add links to external resources for this project, such as CI server, bug tracker, etc.
+You can find the documentation and instructions for running this Go example at [https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/go.html](https://docs.confluent.io/platform/current/tutorials/examples/clients/docs/go.html?utm_source=github&utm_medium=demo&utm_campaign=ch.examples_type.community_content.clients-ccloud)
